@@ -1,4 +1,5 @@
-This is a Kotlin Multiplatform project targeting Android, iOS.
+This is a Kotlin Multiplatform project targeting Android, iOS.   
+   
 This project is used as a proof of concepts, where each branch represents an experiment of some topic, such as DI, Compose, Network, Security among others.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
