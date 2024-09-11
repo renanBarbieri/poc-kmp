@@ -1,0 +1,24 @@
+{
+  "view_type": "column",
+  "content": [
+    {
+      "view_type": "row",
+      "padding": {
+        "start": 10,
+        "end": 10,
+        "top": 5,
+        "bottom": 5
+      },
+      "content": [
+        {
+          "view_type": "button",
+          "data": {
+            "text": "Text button",
+            "route": "bottom_sheet/list"
+          }
+        }
+      ]
+    }
+  ]
+}
+
